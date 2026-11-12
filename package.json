@@ -8,7 +8,7 @@
   "dependencies": {
     "axios":"^1.7.7",
     "cors":"^2.8.5",
-    "dotenv":"^16.4.5"
+    "dotenv":"^16.4.5",
     "express": "^4.18.2",
     "firebase-admin":"^12.7.o"
     "uuid":"10.0.0"
